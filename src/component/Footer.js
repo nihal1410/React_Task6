@@ -11,7 +11,7 @@ const Footer = () => {
     <div className="footer-content">
       <h3>welcome To my portfolio</h3>
       <p>
-        Hello, My name is Aman krishan.
+        Hello, My name is Nihal Mahansaria.
         you have come this far it means you like my website.
         thank you
       </p>
